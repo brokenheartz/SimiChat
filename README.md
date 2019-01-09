@@ -14,9 +14,11 @@ chmod 755 chat.py
 
 ## Getting the api key
 
-Firstly, you have to [get the api key](http://developer.simsimi.com)
+Firstly, you have to visit this [link](http://developer.simsimi.com)
 
-Afterward, save the api key in the folder where chat.py exists.
+Register, and then get the api key.
+
+Afterward, save the api key in __key.txt__ where the folder is same as where __chat.py__ exists.
 
 Then, type **./chat.py \<language\>**
 
