@@ -8,6 +8,8 @@ Sim simi chat bot.
 git clone https://github.com/brokenheartz/SimiChat.git
 cd SimiChat
 pip3 install -r requirements.txt
+chmod 755 chat.py
+./chat.py
 ```
 
 ## Getting the api key
