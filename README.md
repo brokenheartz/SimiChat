@@ -23,3 +23,5 @@ Afterward, save the api key in __key.txt__ where the folder is same as where __c
 Then, type **./chat.py \<language\>**
 
 **Example : ./chat.py en**
+
+Type, **./chat.py lang** for list all usable languages.
